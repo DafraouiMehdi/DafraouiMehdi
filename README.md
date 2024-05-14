@@ -1,23 +1,21 @@
-Full stack Developer!!
-Hi 👋, I’m Bottayna Azmy Full stack DeveloperCoding
-👀 I’m interested in :
-⚡ frontEnd
-   ✔️ Css : Bootstrap
-   ✔️ Javascript : React.js
-☕ BackEnd
-   ✔️ Python : Computer vision | Sebron |Numpay |Modifier Scikit-Learn | Pandas | Matplotlib
-   ✔️ PHP : laravel
-   ✔️ Tools : GIT | GITHUB |Gitlap
-   ✔️ Devops : DOCKER | KUBERNETES | JENKINS
-   ✔️ Design : UML | Design Patterns | Clean code-Solid principles
-   ✔️ Web Service : JSON | XML
-   ✔️ DateBases : MYSQL | SQL server | Mongodb
-🤖 Artificial Intelligence
-   ✔️ Computer vision
-📖 I’m currently learning everything 🤣
-👯 I’m looking to collaborate with other companies like freelance
-🥅 2025 Goals: Learn more about Java, Java Jee, Spring Boot
-📫 How to reach me : Email : bottaynaazmy@gmail.com / Phone : +212 629388661
+<h1>Full stack Developer!!</h1><br />
+Hi 👋, I’m Dafraoui ElMehdi Full stack DeveloperCoding <br />
+👀 I’m interested in : <br />
+⚡ frontEnd <br />
+   ✔️ Css : Bootstrap <br />
+   ✔️ Javascript : React.js <br />
+☕ BackEnd <br />
+   ✔️ Python : Pandas | Matplotlib <br />
+   ✔️ PHP : laravel <br />
+   ✔️ Tools : GIT | GITHUB |Gitlap <br />
+   ✔️ Devops : DOCKER | KUBERNETES | JENKINS <br />
+   ✔️ Design : UML | Design Patterns | Clean code-Solid principles <br />
+   ✔️ Web Service : JSON | XML <br />
+   ✔️ DateBases : MYSQL | SQL server | Mongodb <br />
+📖 I’m currently learning everything 🤣 <br />
+👯 I’m looking to collaborate with other companies like freelance <br />
+🥅 2025 Goals: Learn more about Java, Java Jee, Spring Boot <br />
+📫 How to reach me : Email : Dafraouimehdi05@gmail.com / Phone : +212 609933921 <br />
 
 
 
