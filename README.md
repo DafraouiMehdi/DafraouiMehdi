@@ -2,16 +2,16 @@
 Hi 👋, I’m Dafraoui ElMehdi Full stack DeveloperCoding <br />
 👀 I’m interested in : <br />
 ⚡ frontEnd <br />
-   ✔️ Css : Bootstrap <br />
-   ✔️ Javascript : React.js <br />
+      ✔️ Css : Bootstrap <br />
+      ✔️ Javascript : React.js <br />
 ☕ BackEnd <br />
-   ✔️ Python : Pandas | Matplotlib <br />
-   ✔️ PHP : laravel <br />
-   ✔️ Tools : GIT | GITHUB |Gitlap <br />
-   ✔️ Devops : DOCKER | KUBERNETES | JENKINS <br />
-   ✔️ Design : UML | Design Patterns | Clean code-Solid principles <br />
-   ✔️ Web Service : JSON | XML <br />
-   ✔️ DateBases : MYSQL | SQL server | Mongodb <br />
+      ✔️ Python : Pandas | Matplotlib <br />
+      ✔️ PHP : laravel <br />
+      ✔️ Tools : GIT | GITHUB |Gitlap <br />
+      ✔️ Devops : DOCKER | KUBERNETES | JENKINS <br />
+      ✔️ Design : UML | Design Patterns | Clean code-Solid principles <br />
+      ✔️ Web Service : JSON | XML <br />
+      ✔️ DateBases : MYSQL | SQL server | Mongodb <br />
 📖 I’m currently learning everything 🤣 <br />
 👯 I’m looking to collaborate with other companies like freelance <br />
 🥅 2025 Goals: Learn more about Java, Java Jee, Spring Boot <br />
