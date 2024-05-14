@@ -8,10 +8,13 @@ Hi 👋, I’m Dafraoui ElMehdi Full stack DeveloperCoding <br />
       ✔️ Python : Pandas | Matplotlib <br />
       ✔️ PHP : laravel <br />
       ✔️ Tools : GIT | GITHUB |Gitlap <br />
-      ✔️ Devops : DOCKER | KUBERNETES | JENKINS <br />
-      ✔️ Design : UML | Design Patterns | Clean code-Solid principles <br />
+      ✔️ Devops : DOCKER | KUBERNETES | JENKINS | CI / CD <br />
+      ✔️ Design : UML | Design Patterns | Clean code-Solid principles | Figma <br />
       ✔️ Web Service : JSON | XML <br />
       ✔️ DateBases : MYSQL | SQL server | Mongodb <br />
+L'agile 
+      ✔️ Scrum <br />
+      ✔️ Jira <br />
 📖 I’m currently learning everything 🤣 <br />
 👯 I’m looking to collaborate with other companies like freelance <br />
 🥅 2025 Goals: Learn more about Java, Java Jee, Spring Boot <br />
