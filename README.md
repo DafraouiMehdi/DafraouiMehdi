@@ -1,10 +1,10 @@
 <h1>Full stack Developer!!</h1><br />
 Hi 👋, I’m Dafraoui ElMehdi Full stack DeveloperCoding <br />
 👀 I’m interested in : <br />
-⚡ <h5>frontEnd</h5> <br />
+⚡ <b>frontEnd</b> <br />
       ✔️ Css : Bootstrap <br />
       ✔️ Javascript : React.js <br />
-☕ <h5>BackEnd</h5> <br />
+☕ <b>BackEnd</b> <br />
       ✔️ Python : Pandas | Matplotlib <br />
       ✔️ PHP : laravel <br />
       ✔️ Tools : GIT | GITHUB |Gitlap <br />
@@ -12,9 +12,9 @@ Hi 👋, I’m Dafraoui ElMehdi Full stack DeveloperCoding <br />
       ✔️ Design : UML | Design Patterns | Clean code-Solid principles | Figma <br />
       ✔️ Web Service : JSON | XML <br />
       ✔️ DateBases : MYSQL | SQL server | Mongodb <br />
-<h5>L'agile</h5>  <br />
+<b>L'agile</b>  <br />
       ✔️ Scrum <br />
-      ✔️ Jira <br />
+      ✔️ Jira <br /><br />
 📖 I’m currently learning everything 🤣 <br />
 👯 I’m looking to collaborate with other companies like freelance <br />
 🥅 2025 Goals: Learn more about Java, Java Jee, Spring Boot <br />
